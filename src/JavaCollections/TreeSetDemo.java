@@ -11,7 +11,6 @@ public class TreeSetDemo {
 		ts.add("33");
 		ts.add("44");
 		ts.add("22");
-		ts.add("11");
 		
 		Iterator<String> itr = ts.iterator();
 		while (itr.hasNext()) {
