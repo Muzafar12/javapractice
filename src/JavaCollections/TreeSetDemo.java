@@ -10,7 +10,6 @@ public class TreeSetDemo {
 		TreeSet<String> ts = new TreeSet<String>();
 		ts.add("33");
 		ts.add("44");
-		ts.add("22");
 		
 		Iterator<String> itr = ts.iterator();
 		while (itr.hasNext()) {
